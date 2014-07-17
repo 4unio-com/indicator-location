@@ -1,8 +1,9 @@
-indicator-location (13.10.0.1-0ubuntu1) UNRELEASED; urgency=medium
+indicator-location (13.10.0.1+14.10.20140717indicator.applet.developers.ppa-0ubuntu1) utopic; urgency=medium
 
+  [ Łukasz 'sil2100' Zemczak ]
   * Test thingy
 
- -- Łukasz 'sil2100' Zemczak <lukasz.zemczak@canonical.com>  Wed, 16 Jul 2014 19:27:38 +0200
+ -- Ubuntu daily release <ps-jenkins@lists.canonical.com>  Thu, 17 Jul 2014 11:12:12 +0000
 
 indicator-location (13.10.0+14.10.20140711indicator.applet.developers.ppa-0ubuntu1) utopic; urgency=low
 
