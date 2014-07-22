@@ -1,3 +1,10 @@
+indicator-location (13.10.0.1+14.10.20140722indicator.applet.developers.ppa-0ubuntu1) utopic; urgency=low
+
+  [ Łukasz 'sil2100' Zemczak ]
+  * Some more testing going on
+
+ -- Ubuntu daily release <ps-jenkins@lists.canonical.com>  Tue, 22 Jul 2014 12:32:11 +0000
+
 indicator-location (13.10.0.1+14.10.20140717indicator.applet.developers.ppa-0ubuntu1) utopic; urgency=medium
 
   [ Łukasz 'sil2100' Zemczak ]
