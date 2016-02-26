@@ -8,27 +8,27 @@ msgstr ""
 "Project-Id-Version: indicator-location\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2014-09-02 19:21+0100\n"
-"PO-Revision-Date: 2014-11-30 00:47+0000\n"
+"PO-Revision-Date: 2016-02-25 13:39+0000\n"
 "Last-Translator: Ivo Xavier <ivofernandes12@gmail.com>\n"
 "Language-Team: Portuguese <pt@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2014-12-01 07:07+0000\n"
-"X-Generator: Launchpad (build 17274)\n"
+"X-Launchpad-Export-Date: 2016-02-26 05:29+0000\n"
+"X-Generator: Launchpad (build 17925)\n"
 
-#: ../src/phone.cc:81 ../src/phone.cc:84
+#: ../src/phone.cc:98 ../src/phone.cc:101
 msgid "Location"
 msgstr "Localização"
 
-#: ../src/phone.cc:335
+#: ../src/phone.cc:277
 msgid "Location detection"
 msgstr "Deteção de localização"
 
-#: ../src/phone.cc:344
+#: ../src/phone.cc:354
 msgid "View HERE terms and conditions"
 msgstr "Ver os termos e condições do HERE"
 
-#: ../src/phone.cc:348
+#: ../src/phone.cc:362
 msgid "GPS"
 msgstr "GPS"
