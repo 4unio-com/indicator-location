@@ -8,20 +8,20 @@ msgstr ""
 "Project-Id-Version: indicator-location\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2014-09-02 19:21+0100\n"
-"PO-Revision-Date: 2016-03-01 13:46+0000\n"
+"PO-Revision-Date: 2016-08-05 12:31+0000\n"
 "Last-Translator: Richard Somlói <ricsipontaz@gmail.com>\n"
 "Language-Team: Hungarian <hu@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2016-03-02 05:49+0000\n"
-"X-Generator: Launchpad (build 17925)\n"
+"X-Launchpad-Export-Date: 2016-08-06 05:47+0000\n"
+"X-Generator: Launchpad (build 18169)\n"
 
-#: ../src/phone.cc:98 ../src/phone.cc:101
+#: ../src/phone.cc:114 ../src/phone.cc:117
 msgid "Location"
 msgstr "Tartózkodási hely"
 
-#: ../src/phone.cc:277
+#: ../src/phone.cc:304
 msgid "Location detection"
 msgstr "Helymeghatározás"
 
