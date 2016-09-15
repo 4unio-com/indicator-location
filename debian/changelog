@@ -1,3 +1,9 @@
+indicator-location (13.10.0+16.10.20160915.1-0ubuntu1) yakkety; urgency=medium
+
+  * Adding a systemd user session unit file
+
+ -- Ted Gould <ted@gould.cx>  Thu, 15 Sep 2016 19:35:12 +0000
+
 indicator-location (13.10.0+16.10.20160613-0ubuntu1) yakkety; urgency=medium
 
   [ Marcus Tomlinson ]
