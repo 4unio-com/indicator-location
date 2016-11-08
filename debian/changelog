@@ -1,3 +1,11 @@
+indicator-location (13.10.0+17.04.20161108.1-0ubuntu1) zesty; urgency=medium
+
+  [ Michael Terry ]
+  * Work inside a snap by prefixing hard coded paths with $SNAP. (LP:
+    #1629009)
+
+ -- charles.kerr@canonical.com <charles.kerr@canonical.com>  Tue, 08 Nov 2016 18:15:31 +0000
+
 indicator-location (13.10.0+17.04.20161021-0ubuntu1) zesty; urgency=medium
 
   [ Ted Gould ]
