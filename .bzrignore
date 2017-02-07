@@ -1,2 +1,5 @@
-compile
+build/
+po/Makefile.in.in
+po/POTFILES.in
+
 indicator-location
