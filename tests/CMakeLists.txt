@@ -28,3 +28,13 @@ target_link_libraries (${TEST_NAME}
 
   ${GMOCK_LIBRARIES}
 )
+
+
+###
+### coverage
+###
+set(COVERAGE_TEST_TARGETS
+  ${COVERAGE_TEST_TARGETS}
+  ${TEST_NAME}
+  PARENT_SCOPE
+)
