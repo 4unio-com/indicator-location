@@ -81,9 +81,6 @@ set (CC_WARNING_ARGS " -Wall -Wextra -Wno-missing-field-initializers")
 
 # testing & coverage
 if (${enable_tests})
-  set (GTEST_SOURCE_DIR /usr/src/gtest/src)
-  set (GTEST_INCLUDE_DIR ${GTEST_SOURCE_DIR}/..)
-  set (GTEST_LIBS -lpthread)
   enable_testing ()
   if (${enable_lcov})
     include(GCov)

@@ -21,7 +21,7 @@ Compile-time build dependencies
  - cmake (cmake, 2.8.9 or later)
  - gcovr (gcovr, 2.4 or later)
  - lcov (lcov, 1.9 or later)
- - google test (libgtest-dev, 1.6.0 or later)
+ - google test (googletest or google-mock, 1.6.0 or later)
  - ubuntu-platform-api (libubuntu-platform-api1)
 
 Building the code
