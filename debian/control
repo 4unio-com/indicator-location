@@ -3,12 +3,13 @@ Section: misc
 Priority: optional
 Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
 Build-Depends: cmake,
+               cmake-extras (>= 0.10),
                dbus,
                debhelper (>= 9),
                dh-translations,
+               googletest | google-mock,
                intltool (>= 0.35.0), 
                libglib2.0-dev (>= 2.36),
-               libgtest-dev,
                libubuntu-app-launch2-dev,
                liburl-dispatcher1-dev,
                python,
