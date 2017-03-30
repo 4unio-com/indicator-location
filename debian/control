@@ -18,7 +18,7 @@ Build-Depends: cmake,
                libproperties-cpp-dev,
 # for code formatting
                astyle,
-               clang-format-3.6,
+               clang-format,
                dos2unix,
 # for systemd unit
                systemd,
