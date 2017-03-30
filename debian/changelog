@@ -1,9 +1,10 @@
-indicator-location (13.10.0+17.04.20170210-0ubuntu3) UNRELEASED; urgency=medium
+indicator-location (13.10.0+17.04.20170330.3-0ubuntu1) zesty; urgency=medium
 
+  [ Łukasz 'sil2100' Zemczak ]
   * Switch the libubuntu-app-launch2-dev dependency to
     libubuntu-app-launch3-dev as the former is no longer built from source.
 
- -- Łukasz 'sil2100' Zemczak <lukasz.zemczak@ubuntu.com>  Thu, 30 Mar 2017 12:03:12 +0200
+ -- Łukasz Zemczak <lukasz.zemczak@canonical.com>  Thu, 30 Mar 2017 15:13:45 +0000
 
 indicator-location (13.10.0+17.04.20170210-0ubuntu2) zesty; urgency=medium
 
